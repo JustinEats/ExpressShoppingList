@@ -1,3 +1,3 @@
 # ExpressShoppingList
 
-SpringBoard Express excercise
+SpringBoard Express exercise
